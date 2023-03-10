@@ -1,0 +1,19 @@
+//
+//  ViewController.swift
+//  DNIeTagReader
+//
+//  Created by Ronald Ricardo Martinez Chunga on 10/03/23.
+//
+
+import UIKit
+
+class ViewController: UIViewController {
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        // Do any additional setup after loading the view.
+    }
+
+
+}
+
